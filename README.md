@@ -2,17 +2,17 @@ React Native framework starter repository. React-Native App for live video,voice
 
 Descriptions
 
-->Video Call Module
-->Voice Call Module
-->Chat Module
-->React-native-agora
-->Socket.io
+Video Call Module
+Voice Call Module
+Chat Module
+React-native-agora
+Socket.io
 Few keys that needed to be updated. Create .env file and update things that are mentioned below
 
-->Install npm i react-native-agora sdk pckg
-->Install npm i socket.io 
-->Update APPId of React-native-agora .env file
-->Update Channel Name of React-native-agora .env file
+Install npm i react-native-agora sdk pckg
+Install npm i socket.io 
+Update APPId of React-native-agora .env file
+Update Channel Name of React-native-agora .env file
 
 ## Available Scripts
 
